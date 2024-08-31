@@ -105,6 +105,23 @@ This project highlights Excel's power in creating dynamic and insightful dashboa
 
 ---
 
+## 🔗 Explore Additional Resources
+Check out additional resources related to the project here: [Other Resources Folder](https://github.com/Bhushan148/Bank-Loan-Report-Dashboard-Excel/tree/main/Explore%20Additional%20Resources)
+
+---
+
+## 📸 Project Sample Images
+
+Here are some sample images from the Bank Loan Report Dashboard:
+
+### 📊 Summary Dashboard
+![Summary Dashboard](https://github.com/Bhushan148/Bank-Loan-Report-Dashboard-Excel/blob/main/Explore%20Additional%20Resources/Page%201.png)
+
+### 📈 Overview Dashboard
+![Overview Dashboard](https://github.com/Bhushan148/Bank-Loan-Report-Dashboard-Excel/blob/main/Explore%20Additional%20Resources/Page%202.png)
+
+---
+
 ### 💡 *"Every challenge is an opportunity to grow. Keep pushing your boundaries."*
 
 ---
