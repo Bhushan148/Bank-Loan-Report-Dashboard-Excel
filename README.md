@@ -1,7 +1,7 @@
 # 🏦 Bank Loan Report Dashboard
 
-## 📂 Other Resources
-Explore additional resources and project files here: [Other Resources Folder](https://github.com/YourGitHubUsername/Bank-Loan-Report-Dashboard/tree/main/Other%20Resource)
+## 📂 Dataset
+Access the dataset used for this project in CSV format here: [Dataset CSV File](https://github.com/Bhushan148/Bank-Loan-Report-Dashboard-Excel/blob/main/Dataset.csv)
 
 ---
 
@@ -100,17 +100,8 @@ The primary goal of this project is to design a user-friendly, automated dashboa
 
 ---
 
-## 📎 Additional Resources
-- **API Link**: (Include if applicable)
-- **Schema for This Project**: (Include if applicable)
-
----
-
 ## 📝 Conclusion
 This project highlights Excel's power in creating dynamic and insightful dashboards for financial analysis. Automation in data processing and visualization offers real-time insights, aiding banks in making data-driven decisions about their loan portfolios.
-
-## 🔗 Explore Additional Resources
-Check out additional resources related to the project here: [Other Resources Folder](https://github.com/YourGitHubUsername/Bank-Loan-Report-Dashboard/tree/main/Other%20Resource)
 
 ---
 
